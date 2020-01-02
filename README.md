@@ -28,6 +28,9 @@ confirm file<br>
 readme.md not changed<br>
 welcome.py changed<br>
 
-ch.3
-git checkout develop<br>
-git push origin master<br>
+ch.3<br>
+github pull request base : master <-- compare : develop<br>
+confirm merge<br>
+
+confirm remote repository master branch<br>
+pull request contents (master == develop)<br>
