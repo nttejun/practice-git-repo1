@@ -1,8 +1,4 @@
 
-Hello world!!
-
-Updated
-
 ch.1<br>
 git checkout -b feature/readme<br>
 git add README.md<br>
@@ -34,3 +30,11 @@ confirm merge<br>
 
 confirm remote repository master branch<br>
 pull request contents (master == develop)<br>
+
+ch4<br>
+local 1 git add, commit 2 time<br>
+local 2 git clone repository<br>
+local 2 git add commit<br>
+local 2 git push origin develop<br>
+
+
